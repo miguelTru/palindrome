@@ -12,6 +12,6 @@ public class Palindrome {
             reverseString += inputArray[i];
         }
 
-        //System.out.println(input.equals(reverseString)?"Yes":"No");
+        System.out.println(input.equals(reverseString)?"Yes":"No");
     }
 }
